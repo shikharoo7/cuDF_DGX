@@ -1,0 +1,5 @@
+- can be used with RAPIDS
+- usage of numba
+- Numba uses JIT (Just in Time compilation)
+- standardixation vs normalization: use normalization when we have outlier data.
+- 
